@@ -1,8 +1,8 @@
 ### 👋 Olá, me chamo João Raphael e sou estudante de Ciência da Computação na UFRGS.
 <div align="center">
   <a href="https://github.com/raphaeljjoao">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=raphaeljjoao&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=0&include_all_commits=true"/>
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeljjoao&layout=compact&langs_count=7&theme=radical&border_radius=0&hide=Jupyter%20Notebook"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=raphaeljjoao&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=0&include_all_commits=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeljjoao&layout=compact&langs_count=7&theme=radical&border_radius=0&hide=Jupyter%20Notebook"/>
     
 </div>
 <div style="display: inline_block"><br>
